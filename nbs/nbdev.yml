@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hands_on_ml_learn"
+  site-url: "https://navc90.github.io/hands_on_ml_learn"
+  description: "Repo for working through the Hands On ML book"
+  repo-branch: main
+  repo-url: "https://github.com/navc90/hands_on_ml_learn"
