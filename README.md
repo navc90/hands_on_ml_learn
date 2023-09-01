@@ -16,7 +16,7 @@ pip install hands_on_ml_learn
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+"call load_housing_data() to get the sample housing data for chapter 2"
 ```
 
-    2
+    'call load_housing_data() to get the sample housing data for chapter 2'

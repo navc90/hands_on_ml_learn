@@ -7,6 +7,8 @@ d = { 'settings': { 'branch': 'main',
                 'lib_path': 'hands_on_ml_learn'},
   'syms': { 'hands_on_ml_learn.Ch2_EndToEnd': { 'hands_on_ml_learn.Ch2_EndToEnd.foo': ( 'core.html#foo',
                                                                                         'hands_on_ml_learn/Ch2_EndToEnd.py'),
+                                                'hands_on_ml_learn.Ch2_EndToEnd.load_housing_data': ( 'core.html#load_housing_data',
+                                                                                                      'hands_on_ml_learn/Ch2_EndToEnd.py'),
                                                 'hands_on_ml_learn.Ch2_EndToEnd.say_hello': ( 'core.html#say_hello',
                                                                                               'hands_on_ml_learn/Ch2_EndToEnd.py')},
             'hands_on_ml_learn.core': {'hands_on_ml_learn.core.foo': ('core.html#foo', 'hands_on_ml_learn/core.py')}}}
