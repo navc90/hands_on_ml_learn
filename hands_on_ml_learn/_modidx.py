@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://navc90.github.io',
                 'git_url': 'https://github.com/navc90/hands_on_ml_learn',
                 'lib_path': 'hands_on_ml_learn'},
-  'syms': {'hands_on_ml_learn.core': {'hands_on_ml_learn.core.foo': ('core.html#foo', 'hands_on_ml_learn/core.py')}}}
+  'syms': { 'hands_on_ml_learn.Ch2_EndToEnd': { 'hands_on_ml_learn.Ch2_EndToEnd.foo': ( 'core.html#foo',
+                                                                                        'hands_on_ml_learn/Ch2_EndToEnd.py'),
+                                                'hands_on_ml_learn.Ch2_EndToEnd.say_hello': ( 'core.html#say_hello',
+                                                                                              'hands_on_ml_learn/Ch2_EndToEnd.py')},
+            'hands_on_ml_learn.core': {'hands_on_ml_learn.core.foo': ('core.html#foo', 'hands_on_ml_learn/core.py')}}}
